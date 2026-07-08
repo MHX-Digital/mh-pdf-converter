@@ -1,0 +1,16 @@
+CONVERTER EM PDF - instalacao
+
+1. Descompacte esta pasta em qualquer lugar do seu computador.
+2. De dois cliques em "install.bat".
+3. Pronto! Selecione um ou mais arquivos no Explorer, clique com o botao
+   direito (no Windows 11, clique antes em "Mostrar mais opcoes") e escolha
+   "Converter em PDF". Se selecionar mais de 1 arquivo, aparece uma tela pra
+   ajustar a ordem antes de gerar o PDF (selecione um item e use os botoes
+   "Mover para cima" / "Mover para baixo"). Depois escolha onde salvar.
+
+Funciona com: imagens (jpg, png, bmp, gif, tiff, webp), Word (doc, docx, rtf),
+Excel (xls, xlsx, csv), PowerPoint (ppt, pptx) e txt.
+
+Para desinstalar, de dois cliques em "uninstall.bat".
+
+Nao precisa instalar Python nem nada extra. Nao precisa de senha de administrador.

@@ -1,0 +1,5 @@
+pillow
+pywin32
+reportlab
+pypdf
+pyinstaller
